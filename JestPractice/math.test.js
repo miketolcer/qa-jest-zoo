@@ -3,34 +3,36 @@ const operations = {
         return num1 + num2
     },
 
-    subtract: () => {
+    subtract: (num1, num2) => {
+        return num1 - num2
 
     },
 
-    multiply: () => {
+    multiply: (num1, num2) => {
+        return num1 * num2
 
     },
 
-    divide: () => {
-
+    divide: (num1, num2) => {
+        return num1 / num2
     }
 }
 
 describe("Math Tests", () => {
     
     it("Can add", () => {
-
+        console.log(2 + 2)
     })
 
     it("Can subtract", () => {
-        
+        console.log(6 - 1)
     })
 
     it("Can multiply", () => {
-        
+        console.log(3 * 5)
     })
 
     it("Can divide", () => {
-        
+        console.log(12 / 6)
     })
 })

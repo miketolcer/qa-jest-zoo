@@ -1,0 +1,41 @@
+google search bar
+$$('input[title="Search"]')
+$$('input[name="q"])
+$$('input[aria-label="Search"]')
+
+google search button
+$$('input[class="gNO89b"]'))
+$$('input[value="Google Search"]')
+$$('input[name="btnk"]')
+
+google I'm Feeling Lucky
+$$('input[id="gbqfbb"]')
+$$('input[name="btnI"]')
+
+Find what type of HTML elements are the “Google Search” and “I’m Feeling Lucky” buttons
+<input>
+
+Logo
+$$('[id="hplogo"]')
+
+Amazon
+sign in: $$('a[id="nav-link-accountList"]')
+search bar: $$('form[id="nav-search-bar-form"]')
+
+Enter Wanted
+$$('input[name="hdrInput"]')
+$$('input[name="mkeInput"]')
+$$('input[name="oriInput"]')
+$$('input[name="sexInput"]')
+$$('input[name="racInput"]')
+$$('input[name="hgtInput"]')
+$$('input[name="wgtInput"]')
+$$('input[name="haiInput"]')
+$$('input[name="offInput"]')
+$$('input[name="dowInput"]')
+$$('input[name="olnInput"]')
+$$('input[name="olsInput"]')
+$$('input[name="olyInput"]')
+$$('input[name="licInput"]')
+$$('input[name="lisInput"]')
+$$('input[name="liyInput"]')
